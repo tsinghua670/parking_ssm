@@ -1,0 +1,8 @@
+com\parking\ssm\dao\ISysLogDao.class
+com\parking\ssm\dao\IDriverDao.class
+com\parking\ssm\dao\INoticeDao.class
+com\parking\ssm\dao\IUserDao.class
+com\parking\ssm\dao\IRoleDao.class
+com\parking\ssm\dao\ISeatDao.class
+com\parking\ssm\dao\ICarDao.class
+com\parking\ssm\dao\IOrderDao.class

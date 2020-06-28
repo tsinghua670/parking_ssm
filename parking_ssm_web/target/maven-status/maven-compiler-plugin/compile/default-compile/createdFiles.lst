@@ -1,0 +1,10 @@
+com\parking\ssm\controller\RoleController.class
+com\parking\ssm\controller\LogAop.class
+com\parking\ssm\controller\SeatController.class
+com\parking\ssm\controller\DriverController.class
+com\parking\ssm\controller\NoticeController.class
+com\parking\ssm\controller\SysLogController.class
+com\parking\ssm\controller\CarController.class
+com\parking\ssm\controller\UserController.class
+com\parking\ssm\controller\OrdersController.class
+com\parking\ssm\controller\SearchController.class

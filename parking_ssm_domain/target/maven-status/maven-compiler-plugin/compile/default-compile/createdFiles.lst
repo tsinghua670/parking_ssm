@@ -1,0 +1,9 @@
+com\parking\ssm\domain\Role.class
+com\parking\ssm\domain\Notices.class
+com\parking\ssm\domain\UserInfo.class
+com\parking\ssm\domain\Orders.class
+com\parking\ssm\domain\Seats.class
+com\parking\ssm\domain\Drivers.class
+com\parking\ssm\domain\SysLog.class
+com\parking\ssm\domain\User.class
+com\parking\ssm\domain\Cars.class
