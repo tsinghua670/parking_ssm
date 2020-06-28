@@ -24,7 +24,7 @@
 <!--        <oracle.version>10.2.0.4.0</oracle.version>-->
         <mysql.version>6.0.6</mysql.version>
         <mybatis.version>3.4.5</mybatis.version>
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
     </properties>
 
     <dependencies>        <!-- spring -->
